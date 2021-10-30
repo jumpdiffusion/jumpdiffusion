@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jumpdiffusion
 - 👀 I’m interested in ... statistics, probability and finance
 - 🌱 I’m currently learning ... Julia
-- 💞️ I’m looking to collaborate on ... Julia packages for Mathematical Finance
+- 💞️ I’m looking to collaborate on ... Python, Julia packages for Mathematical Finance
 - 📫 How to reach me ... jumpdiffusion@protonmail.com
 
 <!---
