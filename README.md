@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jumpdiffusion
 - 👀 I’m interested in ... geometry, probability, analysis and machine learning
-- 🌱 I’m currently learning ... React, Next.js
-- 💞️ I’m looking to collaborate on ... Python, Lean
+- 🌱 I’m currently learning ... SolidJS, Deep Learning
+- 💞️ I’m looking to collaborate on ... Swift, Python, Javascript, Lean
 
 <!---
 jumpdiffusion/jumpdiffusion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
